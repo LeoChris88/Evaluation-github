@@ -1,0 +1,27 @@
+{
+  "name": "evaluation-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoChris88/Evaluation-github.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoChris88/Evaluation-github/issues"
+  },
+  "homepage": "https://github.com/LeoChris88/Evaluation-github#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
